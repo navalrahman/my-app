@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/navalrahman.github.io/my-app/static/js/main.46b4d173.chunk.js",
+    "main.js.map": "/navalrahman.github.io/my-app/static/js/main.46b4d173.chunk.js.map",
+    "runtime-main.js": "/navalrahman.github.io/my-app/static/js/runtime-main.8f78f968.js",
+    "runtime-main.js.map": "/navalrahman.github.io/my-app/static/js/runtime-main.8f78f968.js.map",
+    "static/js/2.ae3a8a4d.chunk.js": "/navalrahman.github.io/my-app/static/js/2.ae3a8a4d.chunk.js",
+    "static/js/2.ae3a8a4d.chunk.js.map": "/navalrahman.github.io/my-app/static/js/2.ae3a8a4d.chunk.js.map",
+    "index.html": "/navalrahman.github.io/my-app/index.html",
+    "static/js/2.ae3a8a4d.chunk.js.LICENSE.txt": "/navalrahman.github.io/my-app/static/js/2.ae3a8a4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f78f968.js",
+    "static/js/2.ae3a8a4d.chunk.js",
+    "static/js/main.46b4d173.chunk.js"
+  ]
+}
